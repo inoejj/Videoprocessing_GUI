@@ -1,7 +1,7 @@
 # Video processing GUI
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-pink.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-This is a graphical user interface that automates batch video processing.
+This is a simple graphical user interface that automates batch video processing.
 
 ## Installation
 
