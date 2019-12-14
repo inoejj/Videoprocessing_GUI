@@ -49,8 +49,6 @@ Videos are processed via **ffmpeg** in **python**. Click [here](https://m.wikiho
 
 2. The final processed videos will be in the `Output Directory` that you have selected.
 
-<img src=https://github.com/sgoldenlab/simba/blob/master/images/processvideo4.PNG width="500" height="200" />
-
 3. The **tmp** folder contains the step-by-step processsed videos.
 
 4. The **process_archieve** folder contains the **.txt** file of the process that were ran. 
