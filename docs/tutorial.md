@@ -3,7 +3,7 @@ Videos are processed via **ffmpeg** in **python**. Click [here](https://m.wikiho
 
 ## Pipeline
 
-<img src=https://github.com/sgoldenlab/simba/blob/master/images/processvideo_flowdiagram.png width="800" height="310" />
+<img src=https://github.com/inoejj/Videoprocessing_GUI/blob/master/images/processvideo_flowdiagram.png width="800" height="310" />
 
 ## Step 1: Folder Selection
 
