@@ -10,7 +10,7 @@ This is a graphical user interface that automates batch video processing.
 2. [Git](https://git-scm.com/downloads) 
 3. [FFmpeg](https://m.wikihow.com/Install-FFmpeg-on-Windows)
 
-### Step 1:
+### Step 1: Download
 Open bash or command prompt and run the following commands on current working directory
 
 ```
@@ -18,7 +18,7 @@ git clone https://github.com/inoejj/Videoprocessing_GUI.git
 
 ```
 
-### How to launch the GUI
+### Step 2:Launch the GUI
 
 1. Open up command prompt in the `Videoprocessing_GUI/Video_processing_GUI` folder
 
