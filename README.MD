@@ -18,7 +18,7 @@ git clone https://github.com/inoejj/Videoprocessing_GUI.git
 
 ```
 
-### Step 2:Launch the GUI
+### Step 2: Launch the GUI
 
 1. Open up command prompt in the `Videoprocessing_GUI/Video_processing_GUI` folder
 
