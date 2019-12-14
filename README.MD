@@ -27,3 +27,7 @@ git clone https://github.com/inoejj/Videoprocessing_GUI.git
 python Launcher.py
 ```
 3. Hit `Enter`.
+
+## Tutorial
+
+- [How to use Video processing GUI](/docs/tutorial.md)
