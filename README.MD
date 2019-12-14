@@ -16,7 +16,6 @@ Open bash or command prompt and run the following commands on current working di
 ```
 git clone https://github.com/inoejj/Videoprocessing_GUI.git
 
-
 ```
 
 # How to launch the GUI
