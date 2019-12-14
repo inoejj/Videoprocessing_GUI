@@ -10,7 +10,6 @@ Videos are processed via **ffmpeg** in **python**. Click [here](https://m.wikiho
 
 1. `Process Videos` --> `Batch pre-process videos`.
 
-<img src=https://github.com/sgoldenlab/simba/blob/master/images/processvideo.PNG width="264" height="138" />
 
 2. Under **Folder Selection**, `Directory with videos in it`, select a folder with **only** videos by clicking `Browse Folder`
 
@@ -20,7 +19,7 @@ Videos are processed via **ffmpeg** in **python**. Click [here](https://m.wikiho
 
 >**Note**: Please make sure there is no space in your folder name or video name.
 
-<img src=https://github.com/sgoldenlab/simba/blob/master/images/processvideo2.PNG width="450" height="200" />
+
 
 ## Step 2: Select parameters
 
