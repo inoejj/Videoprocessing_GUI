@@ -5,8 +5,6 @@ This is a simple graphical user interface that automates batch video processing.
 
 ## Installation
 
-<video src="getting_started.mp4" width="320" height="200" controls preload></video>
-
 ### Pre-requisite
 1. [Python 3.6](https://www.python.org/downloads/release/python-360/)
 2. [Git](https://git-scm.com/downloads) 
