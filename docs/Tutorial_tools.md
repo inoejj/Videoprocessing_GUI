@@ -15,7 +15,7 @@
 ## Shorten Videos
 This is a tool to trim videos using ffmpeg. It contains **Method 1** and **Method 2**
 
-<img src="/images/shortenvideos.PNG" width="330" height="287" />
+<img src="/images/shortenvideos.PNG" width="1088" height="482" />
 
 ### Method 1 
 Method 1 has the freedom to cut from the beginning of the video and from the end of the video.
