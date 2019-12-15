@@ -32,4 +32,4 @@ python Launcher.py
 
 - [Batch video processing](/docs/tutorial.md)
 
-- [Single video processing](/docs/tutorial_tools.md)
+- [Single video processing](/docs/Tutorial_tools.md)
