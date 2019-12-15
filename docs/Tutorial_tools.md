@@ -29,7 +29,7 @@ We would start our video on the 10th second `00:00:10` and end at `00:01:55`.
 
 3. Enter the time frame in `End at:` entry box, in this case it will be *00:01:55*. The settings should look like the image below.
 
-<img src="/images/shortenvideos1.PNG" width="435" height="287" />
+<img src="/images/shortenvideos1.PNG" width="405" height="115" />
 
 4. Click `Cut Video` to trim video and a new shorten video will be generated, the new video will have a name of *Name of original video* + *_shorten* .
 
