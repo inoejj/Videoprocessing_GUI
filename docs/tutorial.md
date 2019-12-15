@@ -37,7 +37,7 @@ Videos are processed via **ffmpeg** in **python**. Click [here](https://m.wikiho
 
 6. If you wish to superimpose frames onto your video, check on the `Add Frame #` box.
 
-7. If you wish to apply CLAHE, check on the `CLAHE` box.
+7. If you wish to apply [CLAHE](https://docs.opencv.org/master/d5/daf/tutorial_py_histogram_equalization.html), check on the `CLAHE` box.
 
 8. In the first row, there are `Select All` checkboxes to check all the checkboxes in the given column.
 
