@@ -30,4 +30,6 @@ python Launcher.py
 
 ## Tutorial
 
-- [How to use Video processing GUI](/docs/tutorial.md)
+- [Batch video processing](/docs/tutorial.md)
+
+- [Single video processing](/docs/tutorial_tools.md)
