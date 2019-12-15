@@ -44,7 +44,6 @@ Let's say we have a 2 minute long video and we want to get rid of the first 20 s
 
 1. Enter the amount of time that needs to be trimmed from the start of the video in `Seconds:`, in this case it will be *20*
 
-<img src="/images/shortenvideos3.PNG" width="435" height="287" />
 
 2. Click `Cut Video` to trim video and a new shorten video will be generated, the new video will have a name of *Name of original video* + *_shorten* .
 
