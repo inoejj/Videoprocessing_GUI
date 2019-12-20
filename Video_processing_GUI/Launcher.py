@@ -985,13 +985,30 @@ class App(object):
         menu.add_cascade(label='Process Videos', menu=pvMenu)
         pvMenu.add_command(label='Batch pre-process videos', command=batch_processvideo)
 
-        #fifth menu
+        # fifth menu
         fifthMenu = Menu(menu)
-        menu.add_cascade(label='Tools',menu=fifthMenu)
-        fifthMenu.add_command(label='Clip videos',command=shorten_video)
-        fifthMenu.add_command(label='Crop videos',command=crop_video)
-        fifthMenu.add_command(label='Downsample videos',command=video_downsample)
-        fifthMenu.add_command(label='Change fps',command =changefps)
+        menu.add_cascade(label='Tools', menu=fifthMenu)
+        fifthMenu.add_command(label='Clip videos', command=shorten_video)
+        fifthMenu.add_command(label='Crop videos', command=crop_video)
+        fifthMenu.add_command(label='Downsample videos', command=video_downsample)
+        fifthMenu.add_command(label='Change fps', command=changefps)
+
+        changeformatMenu = Menu(fifthMenu)
+        changeformatMenu.add_command(label='Change image file formats', command=change_imageformat)
+        changeformatMenu.add_command(label='Change video file formats', command=convert_video)
+        fifthMenu.add_cascade(label='Change formats', menu=changeformatMenu)
+
+        fifthMenu.add_command(label='CLAHE enhance video', command=Red_light_Convertion)
+        fifthMenu.add_command(label='Superimpose frame numbers on video',
+                              command=lambda: superimposeframe(askopenfilename()))
+        fifthMenu.add_command(label='Convert to grayscale', command=lambda: greyscale(askopenfilename()))
+        fifthMenu.add_command(label='Merge frames to video', command=mergeframeffmpeg)
+        fifthMenu.add_command(label='Generate gifs', command=creategif)
+
+        extractframesMenu = Menu(fifthMenu)
+        extractframesMenu.add_command(label='Extract defined frames', command=extract_specificframes)
+        extractframesMenu.add_command(label='Extract frames', command=extract_allframes)
+        fifthMenu.add_cascade(label='Extract frames', menu=extractframesMenu)
 
         #sixth menu
         sixthMenu = Menu(menu)
