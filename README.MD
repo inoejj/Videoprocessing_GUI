@@ -3,7 +3,7 @@
 
 This is a simple graphical user interface that automates batch video processing and single video processing.
 
-![](\images\videogui.gif)
+![](/images/videogui.gif)
 
 ## Installation
 
