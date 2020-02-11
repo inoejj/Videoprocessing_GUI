@@ -10,7 +10,7 @@ This is a simple graphical user interface that automates batch video processing 
 ### Pre-requisite
 1. [Python 3.6](https://www.python.org/downloads/release/python-360/)
 2. [Git](https://git-scm.com/downloads) 
-3. [FFmpeg](https://m.wikihow.com/Install-FFmpeg-on-Windows)
+3. [FFmpeg](https://m.wikihow.com/Install-FFmpeg-on-Windows) <-- **THIS IS A MUST, PLEASE ADD FFMPEG INTO WINDOWS PATH**
 
 ### Step 1: Download
 Open bash or command prompt and run the following commands on current working directory
