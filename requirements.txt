@@ -13,4 +13,4 @@ numpy == 1.16.0
 
 # batch_process_videos.py: 2
 # tools_function.py: 4
-opencv_python == 3.4.5.20
+opencv_python == 4.2.0.32
