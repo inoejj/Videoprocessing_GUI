@@ -3,7 +3,7 @@
 
 # Launcher.py: 12
 # tools_function.py: 8
-Pillow == 6.1.0
+Pillow == 9.0.1
 
 # tools_function.py: 7
 PyYAML == 5.2
