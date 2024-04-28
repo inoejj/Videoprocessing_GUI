@@ -9,7 +9,7 @@ Pillow == 9.3.0
 PyYAML == 5.2
 
 # tools_function.py: 2
-numpy == 1.16.0
+numpy == 1.22.0
 
 # batch_process_videos.py: 2
 # tools_function.py: 4
