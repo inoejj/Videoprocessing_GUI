@@ -6,7 +6,7 @@
 Pillow == 9.3.0
 
 # tools_function.py: 7
-PyYAML == 5.2
+PyYAML == 5.4
 
 # tools_function.py: 2
 numpy == 1.22.0
